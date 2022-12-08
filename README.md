@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @DhruvSelopal a first year College Student , aspiring to be a great game Dev.
 - 👀 I’m interested in Game Devlopment and Python Devlopment.
-- 🌱 I’m currently learning C and pygame
-- 💞️ I’m looking to collaborate on Python projects and some internship regarding Game dev or Python
+- 🌱 I’m currently learning C++ and unreal
+- 💞️ I’m looking to collaborate on game dev projects and some internship regarding Game dev 
 - 📫 How to reach me :
-    Number - +91 9925114618
     mail - dhruvselopalrocks@gmail.com
 
 <!---
