@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DhruvSelopal a first year College Student , aspiring to be a great game Dev.
+- 👋 Hi, I’m @DhruvSelopal a second year College Student , aspiring to be a great game Dev.
 - 👀 I’m interested in Game Devlopment.
 - 🌱 I’m currently learning C++ and unreal
 - 💞️ I’m looking to collaborate on game dev projects and some internship regarding Game dev 
